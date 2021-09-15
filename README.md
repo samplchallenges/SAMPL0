@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5510231.svg)](https://doi.org/10.5281/zenodo.5510231)
+
 # SAMPL0
 Repository for historical data from SAMPL0
 
