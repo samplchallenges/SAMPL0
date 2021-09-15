@@ -11,7 +11,6 @@ Challenge overview paper: [DOI](https://doi.org/10.1021/jm070549+)
 Input files under ligand\_structures are copied from the support information of the overview paper. 
     *SI_T1_converted.pdb*: 
         Support information Table 1 -- Coordinates, Partial Charges, and Bondi Radii for the Molecules in the Rizzo set
-
     *SI_T2_converted.pdb*: 
         Support information Table 2 -- Coordinates, Partial Charges, and ZAP-9 Radii for the Molecules in the Rizzo set
     *SI_T5_converted.pdb*: 
