@@ -1,5 +1,6 @@
 # SAMPL0
 Repository for historical data from SAMPL0
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5510231.svg)](https://doi.org/10.5281/zenodo.5510231)
 
 ## Challenge overview
 The first SAMPL exercise, SAMPL0 (2008)focused on the predictions of solvation free energies of 17 small molecules. A research group at Stanford University and scientists at OpenEye Scientific Software carried out the calculations
